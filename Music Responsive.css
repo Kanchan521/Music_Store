@@ -1,0 +1,31 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 10px;
+}
+#myTunes{
+    height: 845px;
+}
+.first{
+    width: 930px;
+}
+.Secondary{
+    text-align: center;
+    padding: 23px 15px;
+}
+.container1 img{
+    height: 615px;
+    width: 900px;
+}
+#overview p{
+    padding: 52px 32px;
+}
+.footer-cols{
+    grid-gap: 92px;
+}
+#video{
+    height: 930px;
+}
